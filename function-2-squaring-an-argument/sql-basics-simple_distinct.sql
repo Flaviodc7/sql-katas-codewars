@@ -1,0 +1,1 @@
+SELECT n, POW(n, 2)::numeric::integer as res from square;
