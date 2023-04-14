@@ -1,0 +1,1 @@
+SELECT POW(n, 3)::integer as res from nums;
